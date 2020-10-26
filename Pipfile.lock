@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1d95809f8b322fc1f2905d6b7d02fcfa1c86bc77ede901cc2f41970caedbfc7c"
+            "sha256": "892a195c91de3fd547130da361e29bbdfd3cba2f3ff76add6856977e044e1557"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -150,6 +150,13 @@
                 "sha256:c35965d010ce31b23eeb663ed3cc8c906275d6be1a34393a1d73a41febf4a048"
             ],
             "version": "==2020.1"
+        },
+        "singleton-decorator": {
+            "hashes": [
+                "sha256:1a90ad8a8a738be591c9c167fdd677c5d4a43d1bc6b1c128227be1c5e03bee07"
+            ],
+            "index": "pypi",
+            "version": "==1.0.0"
         },
         "six": {
             "hashes": [
